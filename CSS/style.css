@@ -1,0 +1,41 @@
+div{
+    border: 1px solid #000;
+    padding: 30px 0;
+    margin-top: 15px;
+    font-size: 30px;
+}
+.my__row{
+    border: none;
+}
+.MY__col{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: #7fbfa7; 
+
+
+}
+.MY__coll{
+    display: flex;
+    justify-content: center;
+    align-items: center;  
+    background: #7fbfa7; 
+
+}
+.MY__colll{
+    border: none;
+}
+.my__roww{
+    display: flex;
+    justify-content: center;
+    align-items: center;  
+    background: #7fbfa7; 
+
+
+}
+.my__rowv{
+    display: flex;
+    justify-content: center;
+    align-items: center;  
+    background: #7fbfa7; 
+}
